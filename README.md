@@ -2,6 +2,6 @@
 
 Simply math quiz game to help you develop your mental arithmetic skills.
 
-## Playing
+## Play
 
-Play the game [here](https://mf-coder.github.io/quick-maths/).
+The game is available for free [here](https://mf-coder.github.io/quick-maths/).
